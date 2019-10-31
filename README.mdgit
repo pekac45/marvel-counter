@@ -1,0 +1,1 @@
+"# marvel-counter"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:pekac45/marvel-counter.gitgit push -u origin master
