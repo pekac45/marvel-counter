@@ -13,6 +13,7 @@
   "license": "SEE LICENSE IN <your-license-filename>",
   "repository": "<fill-your-repository-here>",
   "dependencies": {
+    "nativescript-insomnia": "^1.2.3",
     "nativescript-theme-core": "~2.0.24",
     "svelte-native": "~0.6.0",
     "tns-core-modules": "~6.1.2"
