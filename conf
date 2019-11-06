@@ -1,0 +1,3 @@
+keytool -genkey -v -keystore pow-counter.keystore -alias pekac -storepass mikkki -keypass mikkki -keyalg RSA -validity 36500
+
+tns build android --release --key-store-path ./pow-counter.keystore --key-store-password mikkki --key-store-alias pekac --key-store-alias-password mikkki
