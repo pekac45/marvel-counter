@@ -42,11 +42,11 @@
       on:tap={() => (counter = counter - 1)}
       class="danger btn"
       width="100" />
-    <!-- <button
+    <button
       text="-5"
       on:tap={() => (counter = counter - 5)}
       class="danger btn"
-      width="100" /> -->
+      width="100" />
     <button
       text="-10"
       on:tap={() => (counter = counter - 10)}
@@ -58,11 +58,11 @@
       on:tap={() => (counter = counter + 10)}
       class="success btn"
       width="100" />
-    <!-- <button
+    <button
       text="+5"
       on:tap={() => (counter = counter + 5)}
       class="success btn"
-      width="100" /> -->
+      width="100" />
     <button
       text="+1"
       on:tap={() => (counter = counter + 1)}
